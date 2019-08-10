@@ -3,15 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Leetcode\Leetcode.csproj", "{BD2C1EE0-CDD1-413F-981D-3BFC65BBA89A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{DD82E801-15C3-450D-B5A5-3C97751CFEA9}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeetCodeInPython", "LeetCodeInPython\LeetCodeInPython.pyproj", "{C68D8A66-666F-4201-BBF3-571E50807F3F}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSortingMethods", "PythonRankingMethods\PythonSortingMethods.pyproj", "{96F944AB-7EB4-4826-A0B5-FA27EF215025}"
-EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CommonTime", "CommonTime\CommonTime.pyproj", "{8BA8E5CE-0A7E-4BF1-9E32-382E4CECDD91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,20 +11,8 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BD2C1EE0-CDD1-413F-981D-3BFC65BBA89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD2C1EE0-CDD1-413F-981D-3BFC65BBA89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD2C1EE0-CDD1-413F-981D-3BFC65BBA89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD2C1EE0-CDD1-413F-981D-3BFC65BBA89A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD82E801-15C3-450D-B5A5-3C97751CFEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD82E801-15C3-450D-B5A5-3C97751CFEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD82E801-15C3-450D-B5A5-3C97751CFEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD82E801-15C3-450D-B5A5-3C97751CFEA9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C68D8A66-666F-4201-BBF3-571E50807F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C68D8A66-666F-4201-BBF3-571E50807F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96F944AB-7EB4-4826-A0B5-FA27EF215025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96F944AB-7EB4-4826-A0B5-FA27EF215025}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BA8E5CE-0A7E-4BF1-9E32-382E4CECDD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BA8E5CE-0A7E-4BF1-9E32-382E4CECDD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
